@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LucieB-coder
+- 👋 Hi, I’m @LucieB-coder !
 I'm a french hischooler. 
 Next year I will go to college, and right now I'm waiting for answers of the schools I've asked for, wich is kind of stressful.
 - 👀 I’m interested in new technologies, AI, robotic, ect... I enjoy coding and seing a project grow up to become the best it cans.
